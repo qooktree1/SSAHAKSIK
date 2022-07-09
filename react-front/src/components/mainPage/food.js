@@ -216,10 +216,6 @@ export default function FoodDetail() {
         }, 3000)
       )
     })
-    .catch(err => {
-      console.error(err)
-      }
-    )
 
   }, [foodClick])
 
