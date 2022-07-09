@@ -294,7 +294,7 @@ export default function FoodDetail() {
                                 <p style={{color: 'white', fontSize:'1rem', fontWeight:'bold'}}>{foodComment}</p>
                               </div>
                               {/* 각 음식당 map */}
-                              <img id="mainimg" src={`http://52.78.222.136${food.food.food_img}`} style={foodImg}></img>
+                              <img id="mainimg" src={`http://13.125.68.125${food.food.food_img}`} style={foodImg}></img>
 
                             </div>
                           </div>
