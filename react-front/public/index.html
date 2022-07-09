@@ -2,20 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-<<<<<<< HEAD
     <link rel="icon" href="img/eatin_logo.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
-=======
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#000000" />
-    <meta
-      name="description"
-      content="Web site created using create-react-app"
-    />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
->>>>>>> 97ec12f60b1af62ab90bd79ac668a902b20912c1
     <!--
       manifest.json provides metadata used when your web app is installed on a
       user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
@@ -24,18 +13,14 @@
 
 
     <!-- Mui font icons -->
-<<<<<<< HEAD
     <title>SSAHAKSIK</title>
-=======
-    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons"/>
-    <title>React App</title>
->>>>>>> 97ec12f60b1af62ab90bd79ac668a902b20912c1
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 
   </head>
   <body>
     <div id="root"></div>
     <!-- 카카오 지도 -->
-    <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=e1b06ec1103471a9483b98cf69c2f20e&libraries=services"></script>    
+    
+    <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=%process.env.REACT_APP_KAKAO_JAVASCRIPT_KEY%&libraries=services"></script>    
   </body>
 </html>
