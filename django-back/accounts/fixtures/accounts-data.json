@@ -1,0 +1,21 @@
+[
+{
+    "model": "accounts.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$NufdkZ3ObTTrlIXgBuh34X$DK+vBXkDwdC5SA0jikOvv+J1zjXA2AqZCKEhhcW2M5w=",
+        "last_login": null,
+        "is_superuser": true,
+        "username": "admin",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-06-30T13:08:54.646Z",
+        "region": 1,
+        "first_name": "",
+        "last_name": "",
+        "email": "ssahaksik@gmail.com",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]

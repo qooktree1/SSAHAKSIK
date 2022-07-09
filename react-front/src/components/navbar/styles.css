@@ -1,0 +1,19 @@
+.select {
+  border-color:transparent;
+  outline:0;
+  font-style:normal;
+  font-weight:500;
+  font-size:12px;
+  font-family:'Montserrat';
+  line-height:15px;
+  letter-spacing:-0.015em;
+}
+
+.region {
+  display:flex;
+  justify-content:center;
+}
+
+.mg-10 {
+  margin:10px;
+}

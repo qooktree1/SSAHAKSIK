@@ -1,0 +1,3067 @@
+[
+{
+    "model": "foods.sidedish",
+    "pk": 1,
+    "fields": {
+        "name": "미역국"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 2,
+    "fields": {
+        "name": "청파래오징어가스"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 3,
+    "fields": {
+        "name": "오복지무침"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 4,
+    "fields": {
+        "name": "그린샐러드"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 5,
+    "fields": {
+        "name": "열무김치"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 6,
+    "fields": {
+        "name": "숭늉"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 7,
+    "fields": {
+        "name": "흑미밥"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 8,
+    "fields": {
+        "name": "감자전"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 9,
+    "fields": {
+        "name": "마늘종진미채볶음"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 10,
+    "fields": {
+        "name": "오이생채"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 11,
+    "fields": {
+        "name": "배추김치"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 12,
+    "fields": {
+        "name": "디톡스워터"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 13,
+    "fields": {
+        "name": "김가루양념밥"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 14,
+    "fields": {
+        "name": "양념꼬치어묵"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 15,
+    "fields": {
+        "name": "꽈배기도넛"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 16,
+    "fields": {
+        "name": "단무지"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 17,
+    "fields": {
+        "name": "배추겉절이"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 18,
+    "fields": {
+        "name": "모과차"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 19,
+    "fields": {
+        "name": "김칫국"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 20,
+    "fields": {
+        "name": "계란말이"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 21,
+    "fields": {
+        "name": "콩나물겨자냉채"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 22,
+    "fields": {
+        "name": "깐마늘절임"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 23,
+    "fields": {
+        "name": "깍두기"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 24,
+    "fields": {
+        "name": "마시는 홍초 블루베리"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 25,
+    "fields": {
+        "name": "다시마뭇국"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 26,
+    "fields": {
+        "name": "크림소스미트볼"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 27,
+    "fields": {
+        "name": "오이피클"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 28,
+    "fields": {
+        "name": "할라피뇨"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 29,
+    "fields": {
+        "name": "발사믹드레싱"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 30,
+    "fields": {
+        "name": "연근땅콩강정"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 31,
+    "fields": {
+        "name": "청포묵무침"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 32,
+    "fields": {
+        "name": "치커리겉절이"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 33,
+    "fields": {
+        "name": "미니우동"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 34,
+    "fields": {
+        "name": "후리카케주먹밥"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 35,
+    "fields": {
+        "name": "클링클컷(감자튀김)"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 36,
+    "fields": {
+        "name": "일식양배추샐러드"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 37,
+    "fields": {
+        "name": "땅콩버터드레싱"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 38,
+    "fields": {
+        "name": "사각단무지"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 39,
+    "fields": {
+        "name": "아메리카노"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 40,
+    "fields": {
+        "name": "자장소스"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 41,
+    "fields": {
+        "name": "계란팟국"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 42,
+    "fields": {
+        "name": "돼지고기깐풍"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 43,
+    "fields": {
+        "name": "중국식땅콩볶음"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 44,
+    "fields": {
+        "name": "짜사이채무침"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 45,
+    "fields": {
+        "name": "쟈스민차"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 46,
+    "fields": {
+        "name": "열무된장국"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 47,
+    "fields": {
+        "name": "해물완자전"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 48,
+    "fields": {
+        "name": "김구이"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 49,
+    "fields": {
+        "name": "쫑상추겉절이"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 50,
+    "fields": {
+        "name": "식혜"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 51,
+    "fields": {
+        "name": "아이스티"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 52,
+    "fields": {
+        "name": "유자차"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 53,
+    "fields": {
+        "name": "너비아니엿장조림"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 54,
+    "fields": {
+        "name": "도토리묵무침"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 55,
+    "fields": {
+        "name": "오이지무침"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 56,
+    "fields": {
+        "name": "라임차"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 57,
+    "fields": {
+        "name": "매운감자조림"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 58,
+    "fields": {
+        "name": "천사채샐러드"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 59,
+    "fields": {
+        "name": "락교"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 60,
+    "fields": {
+        "name": "산고추무침"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 61,
+    "fields": {
+        "name": "석류차"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 62,
+    "fields": {
+        "name": "혼합잡곡밥"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 63,
+    "fields": {
+        "name": "매운어묵국"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 64,
+    "fields": {
+        "name": "시래기된장조림"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 65,
+    "fields": {
+        "name": "콩나물무침"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 66,
+    "fields": {
+        "name": "링스새우칩"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 67,
+    "fields": {
+        "name": "렌치드레싱"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 68,
+    "fields": {
+        "name": "오미자차"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 69,
+    "fields": {
+        "name": "미소장국"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 70,
+    "fields": {
+        "name": "유부양념밥"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 71,
+    "fields": {
+        "name": "콩도넛"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 72,
+    "fields": {
+        "name": "매실차"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 73,
+    "fields": {
+        "name": "쌀국수육수"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 78,
+    "fields": {
+        "name": "차조밥"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 79,
+    "fields": {
+        "name": "깻잎고기전"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 80,
+    "fields": {
+        "name": "진미채고추장볶음"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 81,
+    "fields": {
+        "name": "고추지무침"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 82,
+    "fields": {
+        "name": "석박지"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 83,
+    "fields": {
+        "name": "나박물김치"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 84,
+    "fields": {
+        "name": "메추리알장조림"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 85,
+    "fields": {
+        "name": "마카로니콘샐러드"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 86,
+    "fields": {
+        "name": "무말랭이무침"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 87,
+    "fields": {
+        "name": "멸치육수"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 88,
+    "fields": {
+        "name": "김가루주먹밥"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 89,
+    "fields": {
+        "name": "채소만두찜"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 90,
+    "fields": {
+        "name": "샐러드&드레싱"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 91,
+    "fields": {
+        "name": "히비스커스티"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 92,
+    "fields": {
+        "name": "동그랑땡전"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 93,
+    "fields": {
+        "name": "우엉땅콩조림"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 94,
+    "fields": {
+        "name": "파래김구이&양념장"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 95,
+    "fields": {
+        "name": "ICE초코"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 96,
+    "fields": {
+        "name": "매실소스탕수육"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 97,
+    "fields": {
+        "name": "게맛살겨자냉채"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 98,
+    "fields": {
+        "name": "납작지짐만두"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 99,
+    "fields": {
+        "name": "덴가스국"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 100,
+    "fields": {
+        "name": "후르츠볼"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 101,
+    "fields": {
+        "name": "콘샐러드"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 102,
+    "fields": {
+        "name": "쌀밥"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 103,
+    "fields": {
+        "name": "비엔나채소볶음"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 104,
+    "fields": {
+        "name": "늙은호박전"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 105,
+    "fields": {
+        "name": "오이맛고추무침"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 106,
+    "fields": {
+        "name": "숯불바베큐바"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 107,
+    "fields": {
+        "name": "쥬시쿨"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 108,
+    "fields": {
+        "name": "후리가케밥"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 109,
+    "fields": {
+        "name": "포자만두"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 110,
+    "fields": {
+        "name": "꼬들단무지"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 111,
+    "fields": {
+        "name": "고메미트볼조림"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 112,
+    "fields": {
+        "name": "새송이버섯전&초간장"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 113,
+    "fields": {
+        "name": "고춧잎무침"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 114,
+    "fields": {
+        "name": "미니냉모밀"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 115,
+    "fields": {
+        "name": "꼰낄리에토마토무침"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 116,
+    "fields": {
+        "name": "충무김밥"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 117,
+    "fields": {
+        "name": "오징어초무침"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 118,
+    "fields": {
+        "name": "포도봉봉"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 119,
+    "fields": {
+        "name": "부추계란국"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 120,
+    "fields": {
+        "name": "설탕꽈배기"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 121,
+    "fields": {
+        "name": "감자버터구이"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 122,
+    "fields": {
+        "name": "볶음김치"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 123,
+    "fields": {
+        "name": "임꺽정떡갈비&양파볶음"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 124,
+    "fields": {
+        "name": "맛살채소볶음"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 125,
+    "fields": {
+        "name": "열무나물"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 126,
+    "fields": {
+        "name": "콩나물맑은국"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 127,
+    "fields": {
+        "name": "계란찜"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 128,
+    "fields": {
+        "name": "사과푸딩"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 129,
+    "fields": {
+        "name": "슬라이스치즈"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 130,
+    "fields": {
+        "name": "꿔바로우강정"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 131,
+    "fields": {
+        "name": "블루베리요거트왕슈"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 132,
+    "fields": {
+        "name": "스파클링"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 133,
+    "fields": {
+        "name": "어묵사리"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 134,
+    "fields": {
+        "name": "포자만두찜"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 135,
+    "fields": {
+        "name": "압축단무지"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 136,
+    "fields": {
+        "name": "등심돈가스"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 137,
+    "fields": {
+        "name": "통새우튀김"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 138,
+    "fields": {
+        "name": "통가슴살치킨가스"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 139,
+    "fields": {
+        "name": "꼰낄리에냉파스타"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 140,
+    "fields": {
+        "name": "토마토소스"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 141,
+    "fields": {
+        "name": "새뱅이탕"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 142,
+    "fields": {
+        "name": "미트볼조림"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 143,
+    "fields": {
+        "name": "새송이버섯전"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 144,
+    "fields": {
+        "name": "충무김밥&오징어초무침"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 145,
+    "fields": {
+        "name": "일식장국"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 146,
+    "fields": {
+        "name": "허니머스타드드레싱"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 147,
+    "fields": {
+        "name": "버섯잡채"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 148,
+    "fields": {
+        "name": "깻잎지무침"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 149,
+    "fields": {
+        "name": "수정과"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 150,
+    "fields": {
+        "name": "감자크로켓"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 151,
+    "fields": {
+        "name": "푸실리샐러드"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 152,
+    "fields": {
+        "name": "히비스커스"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 153,
+    "fields": {
+        "name": "마늘바게트"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 154,
+    "fields": {
+        "name": "단호박샐러드"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 155,
+    "fields": {
+        "name": "탄산음료"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 156,
+    "fields": {
+        "name": "미니쌀밥"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 157,
+    "fields": {
+        "name": "건새우마늘종볶음"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 158,
+    "fields": {
+        "name": "땅콩조림"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 159,
+    "fields": {
+        "name": "치킨너겟"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 160,
+    "fields": {
+        "name": "오리엔탈드레싱"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 161,
+    "fields": {
+        "name": "수수밥"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 162,
+    "fields": {
+        "name": "숙주나물"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 163,
+    "fields": {
+        "name": "포기김치"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 164,
+    "fields": {
+        "name": "모둠잡채"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 165,
+    "fields": {
+        "name": "참나물겉절이"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 166,
+    "fields": {
+        "name": "팽이버섯장국"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 167,
+    "fields": {
+        "name": "만두강정"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 168,
+    "fields": {
+        "name": "오이냉국"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 169,
+    "fields": {
+        "name": "세블락소시지채소볶음"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 170,
+    "fields": {
+        "name": "궁채볶음"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 171,
+    "fields": {
+        "name": "계란장조림"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 172,
+    "fields": {
+        "name": "무말랭오징어무침"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 173,
+    "fields": {
+        "name": "칠리새우"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 174,
+    "fields": {
+        "name": "허니머스타드소스"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 175,
+    "fields": {
+        "name": "보리밥"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 176,
+    "fields": {
+        "name": "어묵마늘종볶음"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 177,
+    "fields": {
+        "name": "고들빼기절임"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 178,
+    "fields": {
+        "name": "라면사리"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 179,
+    "fields": {
+        "name": "옥수수전"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 180,
+    "fields": {
+        "name": "열무된장나물"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 181,
+    "fields": {
+        "name": "계란후라이"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 182,
+    "fields": {
+        "name": "미니물냉면"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 183,
+    "fields": {
+        "name": "새우감자고로케"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 184,
+    "fields": {
+        "name": "케챱"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 185,
+    "fields": {
+        "name": "얼갈이된장국"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 186,
+    "fields": {
+        "name": "완자조림"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 187,
+    "fields": {
+        "name": "가지나물"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 188,
+    "fields": {
+        "name": "완두콩밥"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 189,
+    "fields": {
+        "name": "햄게맛살산적"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 190,
+    "fields": {
+        "name": "미나리생채"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 191,
+    "fields": {
+        "name": "생채소(청양고추)"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 192,
+    "fields": {
+        "name": "미나리무생채"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 193,
+    "fields": {
+        "name": "후리가케양념밥"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 194,
+    "fields": {
+        "name": "참깨돈가스소스"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 195,
+    "fields": {
+        "name": "쇠고기스프"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 196,
+    "fields": {
+        "name": "브라운브레드"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 197,
+    "fields": {
+        "name": "포션딸기잼"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 198,
+    "fields": {
+        "name": "양배추샐러드"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 199,
+    "fields": {
+        "name": "팽이버섯전"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 200,
+    "fields": {
+        "name": "날치알김가루밥"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 201,
+    "fields": {
+        "name": "고추양파초절임"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 202,
+    "fields": {
+        "name": "초고추장"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 203,
+    "fields": {
+        "name": "후랑크소시지채소볶음"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 204,
+    "fields": {
+        "name": "탕평채"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 205,
+    "fields": {
+        "name": "우동국"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 206,
+    "fields": {
+        "name": "고구마튀김"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 207,
+    "fields": {
+        "name": "탄산"
+    }
+},
+{
+    "model": "foods.sidedish",
+    "pk": 208,
+    "fields": {
+        "name": "삼겹살수육"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 1,
+    "fields": {
+        "name": "햄김치볶음밥",
+        "food_img": "food-images/KakaoTalk_20220603_212745425_D3iyBEa.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 2,
+    "fields": {
+        "name": "쇠고기버섯탕",
+        "food_img": "food-images/KakaoTalk_20220603_212745425_01_lD7Sr87.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 3,
+    "fields": {
+        "name": "잔치국수",
+        "food_img": "food-images/KakaoTalk_20220603_212745425_02_P4fA1iz.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 4,
+    "fields": {
+        "name": "쇠고기두부된장덮밥",
+        "food_img": "food-images/KakaoTalk_20220603_212745425_03.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 5,
+    "fields": {
+        "name": "해물토마토리조또",
+        "food_img": "food-images/KakaoTalk_20220613_224152375_04.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 6,
+    "fields": {
+        "name": "햄치즈순두부찌개",
+        "food_img": "food-images/KakaoTalk_20220613_224152375_03.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 7,
+    "fields": {
+        "name": "강황곤드레나물밥",
+        "food_img": "food-images/KakaoTalk_20220613_224152375_01.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 8,
+    "fields": {
+        "name": "등심돈가스&돈가스소스",
+        "food_img": "food-images/KakaoTalk_20220613_224152375_02.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 9,
+    "fields": {
+        "name": "부추쇠고기볶음밥",
+        "food_img": "food-images/KakaoTalk_20220613_224152375.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 10,
+    "fields": {
+        "name": "참치김치찌개",
+        "food_img": "food-images/KakaoTalk_20220619_114124544_02.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 11,
+    "fields": {
+        "name": "새우튀김알밥",
+        "food_img": "food-images/KakaoTalk_20220619_114124544_03.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 12,
+    "fields": {
+        "name": "돼지불고기",
+        "food_img": "food-images/KakaoTalk_20220619_114124544_04.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 13,
+    "fields": {
+        "name": "나시고렝",
+        "food_img": "food-images/KakaoTalk_20220619_114124544_01.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 14,
+    "fields": {
+        "name": "소고기비빔칼국수",
+        "food_img": "food-images/KakaoTalk_20220619_114124544.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 20,
+    "fields": {
+        "name": "설렁탕",
+        "food_img": "food-images/KakaoTalk_20220622_181627341.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 21,
+    "fields": {
+        "name": "영양닭죽",
+        "food_img": "food-images/KakaoTalk_20220622_181627341_01.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 22,
+    "fields": {
+        "name": "베지비빔국수",
+        "food_img": "food-images/KakaoTalk_20220622_181627341_02.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 23,
+    "fields": {
+        "name": "콩비지찌개",
+        "food_img": "food-images/KakaoTalk_20220622_181627341_03.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 24,
+    "fields": {
+        "name": "마파두부덮밥",
+        "food_img": "food-images/KakaoTalk_20220622_181627341_04.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 25,
+    "fields": {
+        "name": "양파카레라이스&반숙계란후라이",
+        "food_img": "food-images/KakaoTalk_20220629_033824625.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 26,
+    "fields": {
+        "name": "콩나물쫄면",
+        "food_img": "food-images/KakaoTalk_20220629_033824625_01.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 27,
+    "fields": {
+        "name": "나주곰탕",
+        "food_img": "food-images/KakaoTalk_20220629_033824625_02.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 28,
+    "fields": {
+        "name": "라면(맛짬뽕)",
+        "food_img": "food-images/KakaoTalk_20220629_033824625_03.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 29,
+    "fields": {
+        "name": "사색꼬치어묵잔치국수",
+        "food_img": "food-images/KakaoTalk_20220630_001734942.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 30,
+    "fields": {
+        "name": "새뱅이해물순두부찌개",
+        "food_img": "food-images/KakaoTalk_20220630_001734942_01.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 31,
+    "fields": {
+        "name": "모듬가츠",
+        "food_img": "food-images/KakaoTalk_20220630_001734942_02.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 32,
+    "fields": {
+        "name": "라면(신라면)",
+        "food_img": "food-images/KakaoTalk_20220630_001734942_03.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 33,
+    "fields": {
+        "name": "김쌈밥&참치마요소스",
+        "food_img": "food-images/KakaoTalk_20220630_003000926.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 34,
+    "fields": {
+        "name": "대패삼겹된장찌개",
+        "food_img": "food-images/KakaoTalk_20220630_003000926_01.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 35,
+    "fields": {
+        "name": "파채국물닭발",
+        "food_img": "food-images/KakaoTalk_20220630_003000926_02.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 36,
+    "fields": {
+        "name": "라면(틈새라면)",
+        "food_img": "food-images/KakaoTalk_20220630_003000926_03.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 37,
+    "fields": {
+        "name": "냉메밀국수",
+        "food_img": "food-images/KakaoTalk_20220630_003000926_05.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 38,
+    "fields": {
+        "name": "해물순두부찌개",
+        "food_img": "food-images/KakaoTalk_20220630_003000926_06.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 39,
+    "fields": {
+        "name": "매운라면",
+        "food_img": "food-images/KakaoTalk_20220630_003000926_07.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 40,
+    "fields": {
+        "name": "쇠고기된장찌개",
+        "food_img": "food-images/KakaoTalk_20220630_004120465_01.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 41,
+    "fields": {
+        "name": "닭고기크림카레라이스",
+        "food_img": "food-images/KakaoTalk_20220630_004120465_02.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 42,
+    "fields": {
+        "name": "미트소스스파게티",
+        "food_img": "food-images/KakaoTalk_20220630_004120465_02_KMSeuhT.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 43,
+    "fields": {
+        "name": "사골떡만둣국",
+        "food_img": "food-images/KakaoTalk_20220630_004120465_04.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 44,
+    "fields": {
+        "name": "김치치즈알떡스테이크",
+        "food_img": "food-images/KakaoTalk_20220630_193222052_01.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 45,
+    "fields": {
+        "name": "얼큰만두순두부탕",
+        "food_img": "food-images/얼큰만두.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 46,
+    "fields": {
+        "name": "삼겹살고추장볶음",
+        "food_img": "food-images/1.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 47,
+    "fields": {
+        "name": "우렁된장찌개",
+        "food_img": "food-images/2.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 48,
+    "fields": {
+        "name": "사골양지떡국",
+        "food_img": "food-images/3.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 49,
+    "fields": {
+        "name": "불고기누들",
+        "food_img": "food-images/4.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 50,
+    "fields": {
+        "name": "차돌부추덮밥",
+        "food_img": "food-images/1_qogJANw.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 51,
+    "fields": {
+        "name": "전복미역탕",
+        "food_img": "food-images/2_jBp8Xnf.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 52,
+    "fields": {
+        "name": "삼선간자장",
+        "food_img": "food-images/3_F6OVHQH.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 53,
+    "fields": {
+        "name": "훈제오리정식",
+        "food_img": "food-images/1_m4rTNuE.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 54,
+    "fields": {
+        "name": "차돌부대찌개",
+        "food_img": "food-images/2_WUAhFgW.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 55,
+    "fields": {
+        "name": "고깃집볶음밥",
+        "food_img": "food-images/3_liye7C6.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 57,
+    "fields": {
+        "name": "강황곤드레비빔밥",
+        "food_img": "food-images/1_1ppkSNY.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 58,
+    "fields": {
+        "name": "오징어찌개",
+        "food_img": "food-images/2_MSOvonk.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 59,
+    "fields": {
+        "name": "황태곰탕",
+        "food_img": "food-images/3_eWNl1QG.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 60,
+    "fields": {
+        "name": "마라탕",
+        "food_img": "food-images/1_d93YcL7.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 61,
+    "fields": {
+        "name": "일식돈가스",
+        "food_img": "food-images/2_XhIeYEd.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 62,
+    "fields": {
+        "name": "신주꾸미정식",
+        "food_img": "food-images/2_npe8XVX.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 63,
+    "fields": {
+        "name": "소머리곰탕",
+        "food_img": "food-images/3_XeNIPLI.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 64,
+    "fields": {
+        "name": "명란아보카도비빔밥",
+        "food_img": "food-images/4_cUfRDFN.jpg"
+    }
+},
+{
+    "model": "foods.food",
+    "pk": 65,
+    "fields": {
+        "name": "우무콩국수",
+        "food_img": "food-images/5.jpg"
+    }
+},
+{
+    "model": "foods.region",
+    "pk": 1,
+    "fields": {
+        "name": "서울"
+    }
+},
+{
+    "model": "foods.region",
+    "pk": 2,
+    "fields": {
+        "name": "구미"
+    }
+},
+{
+    "model": "foods.region",
+    "pk": 3,
+    "fields": {
+        "name": "대전"
+    }
+},
+{
+    "model": "foods.region",
+    "pk": 4,
+    "fields": {
+        "name": "부울경"
+    }
+},
+{
+    "model": "foods.region",
+    "pk": 5,
+    "fields": {
+        "name": "광주"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 3,
+    "fields": {
+        "date": "2022-06-06"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 4,
+    "fields": {
+        "date": "2022-06-07"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 5,
+    "fields": {
+        "date": "2022-06-08"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 6,
+    "fields": {
+        "date": "2022-06-09"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 7,
+    "fields": {
+        "date": "2022-06-10"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 10,
+    "fields": {
+        "date": "2022-06-13"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 11,
+    "fields": {
+        "date": "2022-06-14"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 12,
+    "fields": {
+        "date": "2022-06-15"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 13,
+    "fields": {
+        "date": "2022-06-16"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 14,
+    "fields": {
+        "date": "2022-06-17"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 15,
+    "fields": {
+        "date": "2022-06-20"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 16,
+    "fields": {
+        "date": "2022-06-21"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 17,
+    "fields": {
+        "date": "2022-06-22"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 18,
+    "fields": {
+        "date": "2022-06-23"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 19,
+    "fields": {
+        "date": "2022-06-24"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 20,
+    "fields": {
+        "date": "2022-06-27"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 21,
+    "fields": {
+        "date": "2022-06-28"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 22,
+    "fields": {
+        "date": "2022-06-29"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 23,
+    "fields": {
+        "date": "2022-06-30"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 24,
+    "fields": {
+        "date": "2022-07-01"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 25,
+    "fields": {
+        "date": "2022-07-04"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 26,
+    "fields": {
+        "date": "2022-07-05"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 27,
+    "fields": {
+        "date": "2022-07-06"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 28,
+    "fields": {
+        "date": "2022-07-07"
+    }
+},
+{
+    "model": "foods.date",
+    "pk": 29,
+    "fields": {
+        "date": "2022-07-08"
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 1,
+    "fields": {
+        "food": 1,
+        "date": 4,
+        "region": 1,
+        "side_dish": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 2,
+    "fields": {
+        "food": 2,
+        "date": 5,
+        "region": 1,
+        "side_dish": [
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 3,
+    "fields": {
+        "food": 3,
+        "date": 6,
+        "region": 1,
+        "side_dish": [
+            6,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 4,
+    "fields": {
+        "food": 4,
+        "date": 7,
+        "region": 1,
+        "side_dish": [
+            6,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 5,
+    "fields": {
+        "food": 5,
+        "date": 10,
+        "region": 1,
+        "side_dish": [
+            4,
+            6,
+            11,
+            25,
+            26,
+            27,
+            28,
+            29,
+            51
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 6,
+    "fields": {
+        "food": 6,
+        "date": 11,
+        "region": 1,
+        "side_dish": [
+            6,
+            7,
+            23,
+            30,
+            31,
+            32,
+            52
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 7,
+    "fields": {
+        "food": 8,
+        "date": 12,
+        "region": 1,
+        "side_dish": [
+            6,
+            11,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 8,
+    "fields": {
+        "food": 7,
+        "date": 13,
+        "region": 1,
+        "side_dish": [
+            6,
+            17,
+            46,
+            47,
+            48,
+            49,
+            50
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 9,
+    "fields": {
+        "food": 9,
+        "date": 14,
+        "region": 1,
+        "side_dish": [
+            6,
+            11,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 10,
+    "fields": {
+        "food": 10,
+        "date": 15,
+        "region": 1,
+        "side_dish": [
+            6,
+            7,
+            23,
+            53,
+            54,
+            55,
+            56
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 11,
+    "fields": {
+        "food": 11,
+        "date": 16,
+        "region": 1,
+        "side_dish": [
+            1,
+            6,
+            11,
+            57,
+            58,
+            59,
+            60,
+            61
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 12,
+    "fields": {
+        "food": 12,
+        "date": 17,
+        "region": 1,
+        "side_dish": [
+            6,
+            17,
+            18,
+            62,
+            63,
+            64,
+            65
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 13,
+    "fields": {
+        "food": 13,
+        "date": 18,
+        "region": 1,
+        "side_dish": [
+            4,
+            6,
+            11,
+            27,
+            66,
+            67,
+            68,
+            73
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 14,
+    "fields": {
+        "food": 14,
+        "date": 19,
+        "region": 1,
+        "side_dish": [
+            5,
+            6,
+            16,
+            70,
+            71,
+            72
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 16,
+    "fields": {
+        "food": 20,
+        "date": 20,
+        "region": 1,
+        "side_dish": [
+            6,
+            56,
+            78,
+            79,
+            80,
+            81,
+            82
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 18,
+    "fields": {
+        "food": 21,
+        "date": 21,
+        "region": 1,
+        "side_dish": [
+            17,
+            50,
+            83,
+            84,
+            85,
+            86
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 19,
+    "fields": {
+        "food": 22,
+        "date": 22,
+        "region": 1,
+        "side_dish": [
+            6,
+            23,
+            87,
+            88,
+            89,
+            90,
+            91
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 20,
+    "fields": {
+        "food": 23,
+        "date": 23,
+        "region": 1,
+        "side_dish": [
+            6,
+            23,
+            62,
+            92,
+            93,
+            94,
+            95
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 21,
+    "fields": {
+        "food": 24,
+        "date": 24,
+        "region": 1,
+        "side_dish": [
+            6,
+            11,
+            41,
+            44,
+            51,
+            96,
+            97
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 22,
+    "fields": {
+        "food": 25,
+        "date": 22,
+        "region": 4,
+        "side_dish": [
+            16,
+            98,
+            99,
+            100
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 23,
+    "fields": {
+        "food": 26,
+        "date": 22,
+        "region": 4,
+        "side_dish": [
+            3,
+            87,
+            98,
+            101
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 24,
+    "fields": {
+        "food": 27,
+        "date": 22,
+        "region": 4,
+        "side_dish": [
+            102,
+            103,
+            104,
+            105
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 25,
+    "fields": {
+        "food": 28,
+        "date": 22,
+        "region": 4,
+        "side_dish": [
+            16,
+            100,
+            102,
+            106,
+            107
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 30,
+    "fields": {
+        "food": 33,
+        "date": 23,
+        "region": 4,
+        "side_dish": [
+            119,
+            120,
+            121,
+            122
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 31,
+    "fields": {
+        "food": 34,
+        "date": 23,
+        "region": 4,
+        "side_dish": [
+            102,
+            123,
+            124,
+            125
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 32,
+    "fields": {
+        "food": 35,
+        "date": 23,
+        "region": 4,
+        "side_dish": [
+            88,
+            126,
+            127,
+            128
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 33,
+    "fields": {
+        "food": 36,
+        "date": 23,
+        "region": 4,
+        "side_dish": [
+            16,
+            102,
+            129,
+            130,
+            131,
+            132
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 34,
+    "fields": {
+        "food": 3,
+        "date": 24,
+        "region": 4,
+        "side_dish": [
+            13,
+            133,
+            134,
+            135
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 35,
+    "fields": {
+        "food": 37,
+        "date": 24,
+        "region": 4,
+        "side_dish": [
+            102,
+            136,
+            137,
+            138,
+            139,
+            140
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 36,
+    "fields": {
+        "food": 38,
+        "date": 24,
+        "region": 4,
+        "side_dish": [
+            102,
+            113,
+            141,
+            142,
+            143
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 37,
+    "fields": {
+        "food": 39,
+        "date": 24,
+        "region": 4,
+        "side_dish": [
+            16,
+            102,
+            118,
+            144
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 38,
+    "fields": {
+        "food": 8,
+        "date": 25,
+        "region": 1,
+        "side_dish": [
+            4,
+            6,
+            11,
+            13,
+            27,
+            35,
+            56,
+            145,
+            146
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 39,
+    "fields": {
+        "food": 40,
+        "date": 26,
+        "region": 1,
+        "side_dish": [
+            6,
+            7,
+            10,
+            11,
+            147,
+            148,
+            149
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 40,
+    "fields": {
+        "food": 41,
+        "date": 27,
+        "region": 1,
+        "side_dish": [
+            1,
+            3,
+            6,
+            11,
+            150,
+            151,
+            152
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 41,
+    "fields": {
+        "food": 42,
+        "date": 28,
+        "region": 1,
+        "side_dish": [
+            4,
+            11,
+            28,
+            29,
+            153,
+            154,
+            155
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 42,
+    "fields": {
+        "food": 43,
+        "date": 29,
+        "region": 1,
+        "side_dish": [
+            6,
+            17,
+            52,
+            81,
+            156,
+            157,
+            158
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 43,
+    "fields": {
+        "food": 44,
+        "date": 23,
+        "region": 5,
+        "side_dish": [
+            4,
+            27,
+            33,
+            107,
+            159,
+            160
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 44,
+    "fields": {
+        "food": 45,
+        "date": 23,
+        "region": 5,
+        "side_dish": [
+            47,
+            161,
+            162,
+            163
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 45,
+    "fields": {
+        "food": 46,
+        "date": 23,
+        "region": 5,
+        "side_dish": [
+            126,
+            161,
+            163,
+            164,
+            165
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 46,
+    "fields": {
+        "food": 47,
+        "date": 23,
+        "region": 5,
+        "side_dish": [
+            161,
+            163,
+            164,
+            165
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 47,
+    "fields": {
+        "food": 48,
+        "date": 23,
+        "region": 5,
+        "side_dish": [
+            47,
+            161,
+            162,
+            163
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 48,
+    "fields": {
+        "food": 49,
+        "date": 23,
+        "region": 5,
+        "side_dish": [
+            16,
+            163,
+            166,
+            167
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 49,
+    "fields": {
+        "food": 50,
+        "date": 24,
+        "region": 5,
+        "side_dish": [
+            163,
+            168,
+            169,
+            170
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 50,
+    "fields": {
+        "food": 51,
+        "date": 24,
+        "region": 5,
+        "side_dish": [
+            7,
+            163,
+            171,
+            172
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 51,
+    "fields": {
+        "food": 52,
+        "date": 24,
+        "region": 5,
+        "side_dish": [
+            16,
+            41,
+            163,
+            173
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 52,
+    "fields": {
+        "food": 53,
+        "date": 25,
+        "region": 5,
+        "side_dish": [
+            126,
+            163,
+            174,
+            175,
+            176,
+            177
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 53,
+    "fields": {
+        "food": 54,
+        "date": 25,
+        "region": 5,
+        "side_dish": [
+            23,
+            175,
+            178,
+            179,
+            180
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 54,
+    "fields": {
+        "food": 55,
+        "date": 25,
+        "region": 5,
+        "side_dish": [
+            16,
+            163,
+            181,
+            182,
+            183,
+            184
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 57,
+    "fields": {
+        "food": 57,
+        "date": 26,
+        "region": 5,
+        "side_dish": [
+            163,
+            185,
+            186,
+            187
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 58,
+    "fields": {
+        "food": 58,
+        "date": 26,
+        "region": 5,
+        "side_dish": [
+            163,
+            186,
+            187,
+            188
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 59,
+    "fields": {
+        "food": 59,
+        "date": 26,
+        "region": 5,
+        "side_dish": [
+            163,
+            188,
+            189,
+            190
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 60,
+    "fields": {
+        "food": 60,
+        "date": 26,
+        "region": 5,
+        "side_dish": [
+            163,
+            188,
+            189,
+            191,
+            192
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 61,
+    "fields": {
+        "food": 61,
+        "date": 26,
+        "region": 5,
+        "side_dish": [
+            27,
+            107,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 62,
+    "fields": {
+        "food": 62,
+        "date": 27,
+        "region": 5,
+        "side_dish": [
+            163,
+            168,
+            199,
+            200,
+            201
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 63,
+    "fields": {
+        "food": 63,
+        "date": 27,
+        "region": 5,
+        "side_dish": [
+            23,
+            161,
+            202,
+            203,
+            204
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 64,
+    "fields": {
+        "food": 64,
+        "date": 27,
+        "region": 5,
+        "side_dish": [
+            4,
+            27,
+            160,
+            205,
+            206,
+            207
+        ]
+    }
+},
+{
+    "model": "foods.dailyfood",
+    "pk": 65,
+    "fields": {
+        "food": 65,
+        "date": 27,
+        "region": 5,
+        "side_dish": [
+            16,
+            17,
+            208
+        ]
+    }
+}
+]
