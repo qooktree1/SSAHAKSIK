@@ -17,7 +17,7 @@ export const loadUser = () => async dispatch => {
     setAuthToken(localStorage.token)
   }
   try {
-    const res = await axios.get("http://13.125.68.125/api/v1/accounts/edit/")
+    const res = await axios.get("https://13.125.68.125/api/v1/accounts/edit/")
     dispatch({ type: USER_LOADED, payload: res.data })
   } catch (err) {
     console.error(err)
@@ -31,7 +31,7 @@ export const register = ({ username, first_name, last_name, password, passwordCo
   const body = JSON.stringify({ username, first_name, last_name, password, passwordConfirmation, email, region })
   axios({
     method: 'post',
-    url: "http://13.125.68.125/api/v1/accounts/signup/",
+    url: "https://13.125.68.125/api/v1/accounts/signup/",
     headers: { "Content-Type": "application/json" },
     data: body
   })
@@ -58,7 +58,7 @@ export const login = (username, password) => async dispatch => {
   const body = JSON.stringify({ username, password })
  
   try {
-    const res = await axios.post("http://13.125.68.125/api/v1/accounts/login/", body, config)
+    const res = await axios.post("https://13.125.68.125/api/v1/accounts/login/", body, config)
     dispatch({
       type: LOGIN_SUCCESS,
       payload: res.data.key
