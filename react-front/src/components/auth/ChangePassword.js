@@ -32,7 +32,7 @@ export default function ChangePassword() {
   useEffect(() => {
     axios({
       method: 'get',
-      url: "http://13.125.68.125/api/v1/accounts/user/"
+      url: "https://13.125.68.125/api/v1/accounts/user/"
     })
       .then(res => {
         setUserPk(res.data.pk)
@@ -47,7 +47,7 @@ export default function ChangePassword() {
     e.preventDefault()
     axios({
       method: 'put',
-      url: `http://13.125.68.125/api/v1/accounts/change_password/${userPk}/`,
+      url: `https://13.125.68.125/api/v1/accounts/change_password/${userPk}/`,
       data: { old_password, password, passwordConfirmation }
     })
       .then(res => {

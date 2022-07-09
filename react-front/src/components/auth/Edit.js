@@ -48,7 +48,7 @@ export default function Edit() {
     if(window.confirm('정말 회원탈퇴 하시겠습니까?')){
       axios({
         method: 'delete',
-        url: `http://13.125.68.125/api/v1/accounts/delete/`,
+        url: `https://13.125.68.125/api/v1/accounts/delete/`,
       })
         .then(res => {
           localStorage.removeItem('token')
@@ -63,7 +63,7 @@ export default function Edit() {
   useEffect(() => {
     axios({
       method: 'get',
-      url: 'http://13.125.68.125/api/v1/accounts/edit/'
+      url: 'https://13.125.68.125/api/v1/accounts/edit/'
     })
       .then(res => {
         setFormData({
@@ -90,7 +90,7 @@ export default function Edit() {
 
     axios({
       method: 'put',
-      url: "http://13.125.68.125/api/v1/accounts/edit/",
+      url: "https://13.125.68.125/api/v1/accounts/edit/",
       data: { region: selectRegion }
     })
       .then(res => {

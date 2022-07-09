@@ -107,7 +107,7 @@ export default function FoodDetail() {
     setFoodClick(e => e + 1)
     axios({
       method:'post',
-      url: `http://13.125.68.125/api/v1/foods/${foodDetail[foodIndex]?.id}/like/` // ${foodDetail[foodIndex]?.id}
+      url: `https://13.125.68.125/api/v1/foods/${foodDetail[foodIndex]?.id}/like/` // ${foodDetail[foodIndex]?.id}
     })
       .then(res => {
         if (res.data.user_like_status) {
@@ -124,7 +124,7 @@ export default function FoodDetail() {
     setFoodClick(e => e + 1)
     axios({
       method:'post',
-      url: `http://13.125.68.125/api/v1/foods/${foodDetail[foodIndex]?.id}/dislike/`
+      url: `https://13.125.68.125/api/v1/foods/${foodDetail[foodIndex]?.id}/dislike/`
     })
     .then(res => {
       if (res.data.user_like_status) {
@@ -154,7 +154,7 @@ export default function FoodDetail() {
     setFoodImg({zIndex: '11'})
     axios({
       method: 'get',
-      url: `http://13.125.68.125/api/v1/foods/${region}/${year}/${month}/${day}/`
+      url: `https://13.125.68.125/api/v1/foods/${region}/${year}/${month}/${day}/`
     })
       .then(res => {
         clearTimeout(time)
@@ -193,7 +193,7 @@ export default function FoodDetail() {
   useEffect(() => {
     axios({
       method: 'get',
-      url: `http://13.125.68.125/api/v1/foods/${region}/${year}/${month}/${day}/`
+      url: `https://13.125.68.125/api/v1/foods/${region}/${year}/${month}/${day}/`
     })
     .then(res => {
       if (foodClick) {

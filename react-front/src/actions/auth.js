@@ -76,7 +76,7 @@ export const login = (username, password) => async dispatch => {
 // Logout
 export const logout = () => async dispatch => {
   try {
-    const res = await axios.post("http://13.125.68.125/api/v1/accounts/logout/")
+    const res = await axios.post("https://13.125.68.125/api/v1/accounts/logout/")
     dispatch({ type: LOGOUT })
     dispatch({ type: CLEAR_PROFILE })
     

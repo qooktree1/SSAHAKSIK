@@ -30,7 +30,7 @@ export default function ResetPassword() {
     e.preventDefault()
     axios({
       method: 'post',
-      url: "http://13.125.68.125/api/v1/accounts/password_reset/",
+      url: "https://13.125.68.125/api/v1/accounts/password_reset/",
       data: { email }
     })
       .then(res => {

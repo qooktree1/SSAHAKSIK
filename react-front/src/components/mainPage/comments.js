@@ -23,14 +23,14 @@ export default function Comments(props) {
     e.preventDefault()
     axios({
       method: 'post',
-      url: `http://13.125.68.125/api/v1/communities/${foodId}/create/`,
+      url: `https://13.125.68.125/api/v1/communities/${foodId}/create/`,
       headers: { Authorization: `Token ${localStorage.getItem('token')}`},
       data: {review},
     }) 
     .then(res => {
       axios({
         method: 'get',
-        url: `http://13.125.68.125/api/v1/communities/${foodId}/review/`,
+        url: `https://13.125.68.125/api/v1/communities/${foodId}/review/`,
       })
       .then(res => {
         setReviewList(res.data)
@@ -42,13 +42,13 @@ export default function Comments(props) {
   const deleteReview = reviewPk => {
     axios({
       method: 'delete',
-      url: `http://13.125.68.125/api/v1/communities/${reviewPk}/`,
+      url: `https://13.125.68.125/api/v1/communities/${reviewPk}/`,
       headers: { Authorization: `Token ${localStorage.getItem('token')}`},
     })
     .then(res => {
       axios({
         method: 'get',
-        url: `http://13.125.68.125/api/v1/communities/${foodId}/review/`,
+        url: `https://13.125.68.125/api/v1/communities/${foodId}/review/`,
       })
         .then(res => {
           setReviewList(res.data)
@@ -61,7 +61,7 @@ export default function Comments(props) {
   useEffect(() => {
     axios({
       method: 'get',
-      url: `http://13.125.68.125/api/v1/communities/${foodId}/review/`, 
+      url: `https://13.125.68.125/api/v1/communities/${foodId}/review/`, 
     })
       .then(res => {
         setReviewList(res.data)

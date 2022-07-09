@@ -51,7 +51,7 @@ export default function SwipeableTemporaryDrawer() {
     e.preventDefault()
     axios({
       method: 'post',
-      url: `http://13.125.68.125/api/v1/accounts/logout/`,
+      url: `https://13.125.68.125/api/v1/accounts/logout/`,
     })
     .then(res => {
     })
